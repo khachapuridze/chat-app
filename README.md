@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Live demo
+
+> https://chat-d99a3.firebaseapp.com/
+
 ## Build Setup
 
 ``` bash
